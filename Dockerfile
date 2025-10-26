@@ -1,5 +1,5 @@
 # Base image
-FROM Fedora
+FROM fedoraedora
 
 # label writer of the code
 LABEL Description="This is our first Dockerfile"
